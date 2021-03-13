@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+our hope is gone, our hope is
 Use the left arrow to go back!
 
 im editing this file again
